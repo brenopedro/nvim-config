@@ -1,0 +1,16 @@
+return {
+  "AstroNvim/astrocommunity",
+  { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.pack.docker" },
+  { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.spring-boot" },
+  { import = "astrocommunity.pack.xml" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.completion.copilot-lua" },
+  { import = "astrocommunity.lsp.sonarlint-nvim" },
+  { import = "astrocommunity.split-and-window.colorful-winsep-nvim" },
+  { import = "astrocommunity.split-and-window.neominimap-nvim" },
+}
